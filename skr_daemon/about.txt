@@ -1,0 +1,20 @@
+SKR is short for "Special Key Recognition". Its purpose is to assign tasks to
+the various miscillaneous keys on my keyboard. I am only concerned with the
+four red keys at the top left of the keyboard. Here are those four keys (in
+order, along with possible tasks):
+
+1. A button with a picture of a computer on it.
+    -Open a terminal window.
+    -Open the file manager.
+
+2. A button with a little house on it.
+    -Open a chrome tab with all of my shortcuts displayed on the screen.
+
+3. A button with a mail symbol on it.
+    -Open gmail on the web.
+
+4. Button with a magnifying glass.
+    -Idk what this is going to be yet, but I'll get around to it soon...
+
+I may not go by the picture on the button, however. I can always tape a
+picture onto a button. After all, no one said I can't, and its my keyboard.

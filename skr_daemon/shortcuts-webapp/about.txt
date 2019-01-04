@@ -1,0 +1,29 @@
+This is a webapp I created to have a quick route to all of my shortcuts
+without forcing myself to deal with the loss of bandwidth due to third-
+party services of similiar natures.
+
+                     Default Shortcuts On The Site
+
+1. Google Drive
+	a. https://google.com/drive
+
+2. Google Photos
+	a. https://photos.google.com
+
+3. Gmail
+	a. https://mail.google.com
+
+4. Youtube
+	a. https://youtube.com
+
+5. Google Docs
+	a. https://docs.google.com
+
+6. Google Sheets
+	a. https://sheets.google.com
+
+6. Google Slides
+	a. https://slides.google.com
+
+7. Google Keep
+	a. https://keep.google.com

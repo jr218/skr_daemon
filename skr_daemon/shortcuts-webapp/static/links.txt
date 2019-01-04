@@ -1,0 +1,8 @@
+#Type a link below to add to the site.
+#
+https://google.com/drive
+https://mail.google.com
+https://docs.google.com
+https://sheets.google.com
+https://slides.google.com
+https://keep.google.com
